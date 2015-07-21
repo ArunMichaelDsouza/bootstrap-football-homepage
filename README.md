@@ -4,21 +4,27 @@ A minimal Bootstrap 3 Homepage for Football Lovers
 
 ## Screenshots
 
+### Slider 
 ![Bootstrap Football Theme Screenshot 1](https://raw.githubusercontent.com/ArunMichaelDsouza/bootstrap-football-theme/master/img/preview1.png)
 
 <br/><br/><br/><br/>
+### Top Products Section
 ![Bootstrap Football Theme Screenshot 2](https://raw.githubusercontent.com/ArunMichaelDsouza/bootstrap-football-theme/master/img/preview2.png)
 
 <br/><br/><br/><br/>
+### Latest News Section
 ![Bootstrap Football Theme Screenshot 3](https://raw.githubusercontent.com/ArunMichaelDsouza/bootstrap-football-theme/master/img/preview3.png)
 
 <br/><br/><br/><br/>
+### Popular Videos Section
 ![Bootstrap Football Theme Screenshot 4](https://raw.githubusercontent.com/ArunMichaelDsouza/bootstrap-football-theme/master/img/preview4.png)
 
 <br/><br/><br/><br/>
+### Teams Section
 ![Bootstrap Football Theme Screenshot 5](https://raw.githubusercontent.com/ArunMichaelDsouza/bootstrap-football-theme/master/img/preview5.png)  
 
 <br/><br/><br/><br/>
+### Events Section
 ![Bootstrap Football Theme Screenshot 6](https://raw.githubusercontent.com/ArunMichaelDsouza/bootstrap-football-theme/master/img/preview6.png)
 
 ## License
