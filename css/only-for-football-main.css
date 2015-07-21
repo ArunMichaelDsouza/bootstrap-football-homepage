@@ -471,6 +471,15 @@ footer {
     border: 2px solid #fff;
 }
 
+.txt-cn {
+    text-align: center;
+    display: block;
+}
+
+.navbar-brand {
+    width: 300px;
+}
+
 @media only screen and (max-width: 990px) {
     .navbar-default .container {
         width: 90%;
