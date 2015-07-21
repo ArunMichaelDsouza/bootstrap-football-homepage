@@ -1,4 +1,4 @@
-# bootstrap-football-theme
+# bootstrap-football-homepage
 A minimal Bootstrap 3 Homepage for Football Lovers
 > Fully Responsive
 
