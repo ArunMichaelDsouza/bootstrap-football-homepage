@@ -1,5 +1,5 @@
 # bootstrap-football-homepage
-A minimal Bootstrap 3 Homepage for Football Lovers
+A minimal Bootstrap 3 one page Theme for Football lovers.
 > Fully Responsive
 
 ## Screenshots
