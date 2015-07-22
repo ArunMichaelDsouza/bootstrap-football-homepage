@@ -27,6 +27,10 @@ A minimal Bootstrap 3 Homepage for Football Lovers
 ### Events Section
 ![Bootstrap Football Theme Screenshot 6](https://raw.githubusercontent.com/ArunMichaelDsouza/bootstrap-football-theme/master/img/preview6.png)
 
+<br/><br/><br/><br/>
+### Mobile View
+![Bootstrap Football Theme Screenshot 6](https://raw.githubusercontent.com/ArunMichaelDsouza/bootstrap-football-theme/master/img/preview7.png)
+
 ## License
 
 MIT Licensed
