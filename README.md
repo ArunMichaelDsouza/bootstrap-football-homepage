@@ -1,4 +1,4 @@
-# bootstrap-football-homepage
+# bootstrap-football-homepage <span class="badge-patreon"><a href="https://www.patreon.com/arunmichaeldsouza" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-blue.svg" alt="Patreon donate button" /></a></span>
 A minimal Bootstrap 3 one page Theme for Football lovers.
 > Fully Responsive
 
@@ -30,6 +30,16 @@ A minimal Bootstrap 3 one page Theme for Football lovers.
 <br/><br/><br/><br/>
 ### Mobile View
 ![Bootstrap Football Theme Screenshot 6](https://raw.githubusercontent.com/ArunMichaelDsouza/bootstrap-football-theme/master/img/preview7.png)
+
+<br/>
+
+## Support
+
+If you'd like to help support the development of the project, please consider backing me on Patreon -
+
+[<img src="https://arunmichaeldsouza.com/img/patreon.png" width="180px;"/>](https://www.patreon.com/bePatron?u=8841116)
+
+<br/>
 
 ## License
 
